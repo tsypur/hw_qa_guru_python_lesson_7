@@ -1,0 +1,7 @@
+pypdf
+webdriver-manager
+selenium
+pytest
+selene == 2.0.0rc9
+openpyxl
+pandas
